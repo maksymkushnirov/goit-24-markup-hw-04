@@ -41,6 +41,13 @@
 :root {
     --main-font: 'Roboto', sans-serif;
     --secondary-font: 'Raleway', sans-serif;
+    --dark-title-color: #212121;
+    --light-title-color: #ffffff;
+    --text-color: #757575;
+    --accent-color: #2196F3;
+    --footer-background-color: #2F303A;}
+    /* --main-font: 'Roboto', sans-serif;
+    --secondary-font: 'Raleway', sans-serif;
     --background-color-main: #e5e5e5;
     --background-color-grey: #f5f4fa;
     --background-color-transparent: 47, 48, 58, 0.8);
@@ -56,7 +63,7 @@
     --border-bottom-color: #ececec;
     --border-footer-color: rgba(255, 255, 255, 0.1);
     --border-clients-color: #afb1b8;
-    --border-team-color: #eeeeee;}
+    --border-team-color: #eeeeee;} */
 html {
     box-sizing: border-box;}
 *,
